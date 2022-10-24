@@ -17,6 +17,12 @@
 	<properties>
 		<java.version>18</java.version>
 	</properties>
+	
+	<modules>
+		<module>ShopmeBackEnd</module>
+		<module>ShopmeFrontEnd</module>
+	</modules>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
